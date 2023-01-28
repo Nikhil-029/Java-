@@ -1,0 +1,59 @@
+JDBC API:-  It provides various methods and interfaces for easy communication with the database.
+    java.sql.*;
+It also provides a standard to connect a database to a client application.
+
+ JDBC Driver manager: It loads a database-specific driver in an application to establish a connection with a database. It is used to make a database-specific call to the database to process the user request.
+
+ JDBC Test suite: It is used to test the operation(such as insertion, deletion, updation) being performed by JDBC Drivers.
+
+
+
+see whenever we create the java application we create frontend and backend in backend we have to fetch data from database. Database stores data
+frontend connect to backend and after that this request goes to database like diff language  
+
+operting syterm
+
+process  failure 
+machine failure
+network failure
+ virutalization 
+
+
+
+Øperating system Important Topics:
+
+Module 1:- 
+
+kernal data structure 
+computing enviroment
+process concepts
+threads
+
+Module 2:
+
+Critical section Problem(ImP)
+Synchronization Hardware(Imp)
+Classic Problems of Synchronization(Semaphore)
+In process synchronizatin their is a @monitors
+
+Module 3:
+
+swapping,Pagging
+Virtual memory management
+Segmentation
+32 X 64 bit architecture(Intel)
+
+Module 4:-
+ 
+Disk Structure
+Disk Scheduling
+File System
+File system structure 
+security
+
+Module 5:-
+
+Classification of failures
+Fault tolerance issue
+Commit Protocols
+Virtualization(Imp)
